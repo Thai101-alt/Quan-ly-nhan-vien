@@ -48,7 +48,7 @@ src/
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/USERNAME/ten-repository.git
+git clone https://github.com/Thai101-alt/Quan-ly-nhan-vien.git
 ```
 
 ### 2. Mở bằng NetBeans
